@@ -1,5 +1,5 @@
 {
-    "name": "elegantweb/sanitizer",
+    "name": "u01jmg3/sanitizer",
     "description": "Sanitization library for PHP and the Laravel framework.",
     "keywords": ["laravel", "sanitation", "input sanitation", "input sanitizer", "input", "transform input", "input filter"],
     "license": "MIT",
